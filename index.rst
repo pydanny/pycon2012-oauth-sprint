@@ -53,7 +53,7 @@ OAuthlib should be ready to go. In which case:
 
 * Authors of existing OAuth Consumer and Provider tools can migrate/port/branch their projects over to OAuthlib.
 
-* Consumer and Provider example implementations for all Python frameworks:
+* Rules forthcoming for getting these listed on the guide page, but we will need Consumer and Provider example implementations against OAuthlib for all Python frameworks:
 
     * Django
     * Flask
