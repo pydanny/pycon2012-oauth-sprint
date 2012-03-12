@@ -68,6 +68,6 @@ General Coding/Documentation Notes
 
 It's going to take a little bit of time to get the formal rules up so here's a rough list of what we want:
 
-* Security is hard. So write the simplest, cleanest, most documented code you can. Take your time and get it right, not just done.
+* **Security is hard**. So write the simplest, cleanest, most documented code you can. Take your time and get it right, not just done.
 * Unittest: Even though it can be tricky to test all pieces, get as many tests in as possible. Don't just try to get up your code coverage numbers either, actually test the code.
 * Doctest: Again, tricky to do, but this is a great usecase for doctests.  Your doctests will serve as working documentation for people examining your code. If your doctests fail for someone that means your doctests 
