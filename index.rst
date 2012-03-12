@@ -46,6 +46,8 @@ OAuthlib_ and general cleanup
 
 * Describe the formal specification for getting projects into the forthcoming  http://docs.python-guide.org OAuth page.
 
+* Describe the rules necessary for registering an example implementations on the forthcoming  http://docs.python-guide.org OAuth page.
+
 .. _ OAuthlib: https://github.com/idangazit/oauthlib
 
 Tuesday through Thursday
