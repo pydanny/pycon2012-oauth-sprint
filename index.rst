@@ -29,19 +29,41 @@ Schedule
 Monday
 ------
 
-OAuthlib and general cleanup
+OAuthlib_ and general cleanup
 
-* OAuthlib: Idan Gazit and a select group of others work to get OAuthlib to a state where consumer and provider authors can use this new library. 
+* Idan Gazit and a select group of others work to get OAuthlib_ to a state where consumer and provider authors can use this new library. 
 
     * .. warning:: I can't put up a wall around Idan, so I'm going to ask that people refrain from distracting him until OAuthlib is ready to go.
+
+* Create OAuthlib_ documentation and tests. **I'll be putting up rules for pull requests for this shortly**.
     
-* Authors of existing OAuth Consumer and Provider tools can work to close out existing bugs, fix documentation, and increase test coverage.
+* Authors of existing OAuth Consumer and Provider tools can:
 
-Tuesday
---------
+    * close out existing bugs.
+    * fix documentation.
+    * increase test coverage.
+    * Create turnkey example projects. 
 
-* blah blah
+* Describe the formal specification for getting projects into the forthcoming  http://docs.python-guide.org OAuth page.
 
+.. _ OAuthlib: https://github.com/idangazit/oauthlib
+
+Tuesday through Thursday
+------------------------
+
+OAuthlib should be ready to go. In which case:
+
+* Authors of existing OAuth Consumer and Provider tools can migrate/port/branch their projects over to OAuthlib.
+
+* Consumer and Provider example implementations for all Python frameworks:
+
+    * Django
+    * Flask
+    * Pyramid
+    * Web2py
+    * Aspen.io
+    * Cherrypy
+    * Any that I've missed
 
 
 
