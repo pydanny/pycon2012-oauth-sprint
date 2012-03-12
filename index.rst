@@ -6,6 +6,8 @@ We're going to make Python's OAuth story better!
 
 * When: March 12 - 15, 2012
 * Where: Santa Clara Hotel and around the world
+* IRC channel: forthcoming
+* Twitter hashtag: #pycon-oauth
 
 Plan
 ======
@@ -16,12 +18,6 @@ Plan
 #. Increase test coverage on everything.
 #. Add a page to http://docs.python-guide.org that is the Python OAuth story.
 #. Describe a specification for a high level of quality in an OAuth-based project. Those who meet this specification get their project listed on the forthcoming http://docs.python-guide.org page.
-
-Communication
-===============
-
-* IRC channel: forthcoming
-* Twitter hashtag: #pycon-oauth
 
 Schedule
 =========
