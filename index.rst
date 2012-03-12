@@ -6,7 +6,7 @@ We're going to make Python's OAuth story better!
 
 * When: March 12 - 15, 2012
 * Where: Santa Clara Hotel and around the world
-* IRC channel: forthcoming
+* IRC channel: pycon-oauth
 * Twitter hashtag: #pycon-oauth
 
 Plan
