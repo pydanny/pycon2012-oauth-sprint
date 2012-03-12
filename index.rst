@@ -70,4 +70,22 @@ It's going to take a little bit of time to get the formal rules up so here's a r
 
 * **Security is hard**. So write the simplest, cleanest, most documented code you can. Take your time and get it right, not just done.
 * Unittest: Even though it can be tricky to test all pieces, get as many tests in as possible. Don't just try to get up your code coverage numbers either, actually test the code.
-* Doctest: Again, tricky to do, but this is a great usecase for doctests.  Your doctests will serve as working documentation for people examining your code. If your doctests fail for someone that means your doctests 
+* Doctest: Again, tricky to do, but this is a great usecase for doctests.  Your doctests will serve as working documentation for people examining your code. If your doctests fail for someone that means your doctests.
+
+Getting your project onto python-guide.org (OAuth 1.0a)
+=======================================================
+
+.. warning:: Draft - this will change over the course of the next few days.
+
+The following are the base requirements for geting your OAuth provider or consumer project listed on python-guide.org:
+
+* Easy to implement
+* Good code smell. That means:
+    
+    * Clean code that has no more complexity than necessary.
+    * Comments
+    
+* A working tutorials ideally created from doctests. This is the perfect usecase for doctests.
+* Unittest coverage > 80%
+* Complete and accurate documentation
+* Sample implementations included in an examples directory
