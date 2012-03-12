@@ -65,13 +65,6 @@ OAuthlib should be ready to go. In which case:
 
 
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-
-
-
 Indices and tables
 ==================
 
