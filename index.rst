@@ -63,12 +63,3 @@ OAuthlib should be ready to go. In which case:
     * Cherrypy
     * Any that I've missed
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
